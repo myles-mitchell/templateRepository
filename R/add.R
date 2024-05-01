@@ -1,4 +1,4 @@
 #' @export
-add = function(a, b) {
+add <- function(a, b) {
   a + b
 }
