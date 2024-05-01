@@ -1,3 +1,4 @@
-^templateRepository\.Rproj$
 ^\.Rproj\.user$
 ^\.github$
+^\.pre-commit-config\.yaml$
+^templateRepository\.Rproj$
