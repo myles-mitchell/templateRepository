@@ -2,6 +2,7 @@
 # templateRepository
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/myles-mitchell/templateRepository/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/myles-mitchell/templateRepository/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of templateRepository is to provide template files for setting up a
